@@ -1,4 +1,4 @@
-## 基于Springboot篮球论坛系统(源代码+LW+PPT+数据库)
+## 基于Springboot网吧管理系统(源代码+LW+PPT+数据库)
 **毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
 
 **完整代码收费可以加微信FY-yuanma咨询接毕业设计论文**
@@ -51,16 +51,18 @@
 所有项目以及源代码本人均调试运行无问题 可支持远程调试运行
 
 ## 四、页面截图
-![图片](https://github.com/user-attachments/assets/8cddffa4-a709-4d9b-98b0-446eeb8668bb)
-![图片](https://github.com/user-attachments/assets/8fcab8b8-42a4-449f-89e7-123ad7362750)
-![图片](https://github.com/user-attachments/assets/c12e4e17-50cc-432b-8787-5e88fefe2b19)
-![图片](https://github.com/user-attachments/assets/ba99877a-3bce-442e-a68d-18de1e9e4068)
-![图片](https://github.com/user-attachments/assets/35fd8b54-8eb6-4d2c-b47c-b6f34749b76e)
-![图片](https://github.com/user-attachments/assets/f3bb78ce-ab49-4f95-aa3f-1ed7b2fae37e)
-![图片](https://github.com/user-attachments/assets/d3de6dae-bff0-41c7-a761-34d8def34cdf)
-![图片](https://github.com/user-attachments/assets/3000b51c-5deb-45f4-99e3-4a4791fb3754)
-![图片](https://github.com/user-attachments/assets/8c2e1a10-79c4-4557-92dc-8902a5f46c2f)
-![图片](https://github.com/user-attachments/assets/c80922c8-e88a-4c9b-a5e8-bb52297af631)
+![图片](https://github.com/user-attachments/assets/bce438a3-63d1-4c0b-95ec-89668af21dfb)
+![图片](https://github.com/user-attachments/assets/9f349f46-17a8-48bf-8001-29085adc4a94)
+![图片](https://github.com/user-attachments/assets/f8fc8c4a-cca2-414a-8b0c-79ad0c5f2b31)
+![图片](https://github.com/user-attachments/assets/dee8479e-67f8-4980-80e2-69d3985f7cbd)
+![图片](https://github.com/user-attachments/assets/6040e64d-bf94-482e-81bb-c5a27189520a)
+![图片](https://github.com/user-attachments/assets/51914b1f-41d0-4410-8322-6869d91ef593)
+![图片](https://github.com/user-attachments/assets/043ce9d0-92ad-4b24-8b75-355746bc4fc8)
+![图片](https://github.com/user-attachments/assets/3ec1939b-0ef3-4623-9791-47a509314fcf)
+![图片](https://github.com/user-attachments/assets/06cfa29e-8706-402d-8579-8ce7e72ab039)
+![图片](https://github.com/user-attachments/assets/321303b9-1b75-458c-86c8-1fd66b6db46f)
+![图片](https://github.com/user-attachments/assets/fb97ca2e-a1b4-491f-9b24-6dce2e5ead5f)
+
 
 ## 五、浏览地址
 
